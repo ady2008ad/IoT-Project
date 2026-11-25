@@ -133,5 +133,5 @@ Demonstrates:
 ## 🧪 Demo & Simulation
 
 🎮 **Try it Live on Wokwi**:
-https://wokwi.com/projects/433739825455756289
+https://wokwi.com/projects/481635943272539137
 
